@@ -1,3 +1,1 @@
-#pyFlappy
-# pyFlappy
-# pyFlappy
+Flappy bird game made with python pygame library.
